@@ -1,0 +1,16 @@
+REAL ESTATE ANALYSIS REPORT
+===========================
+
+1. Average square meter price of real estate: 174444.44
+2. Price of the cheapest property: 5544000
+3. Average square meter value per room of most expensive Budapest property: 25.00
+4. Total price of all properties: 171383998
+
+5. Condominium properties with total price <= average price (19042666.44):
+   - Panel [City: Debrecen, Genre: CONDOMINIUM, Price per sqm: 120000.00, Area: 35 sqm, Rooms: 2, Floor: 0, Insulated: yes, Total Price: 5544000, Average sqm per room: 17.50, Room Price: 2100000]
+   - RealEstate [City: Kisvárda, Genre: CONDOMINIUM, Price per sqm: 150000.00, Area: 50 sqm, Rooms: 2, Total Price: 7500000, Average sqm per room: 25.00]
+   - Panel [City: Tiszaújváros, Genre: CONDOMINIUM, Price per sqm: 120000.00, Area: 75 sqm, Rooms: 3, Floor: 10, Insulated: no, Total Price: 8550000, Average sqm per room: 25.00, Room Price: 3000000]
+   - Panel [City: Nyíregyháza, Genre: CONDOMINIUM, Price per sqm: 170000.00, Area: 80 sqm, Rooms: 3, Floor: 7, Insulated: no, Total Price: 15639999, Average sqm per room: 26.67, Room Price: 4533333]
+   - Panel [City: Budapest, Genre: CONDOMINIUM, Price per sqm: 180000.00, Area: 70 sqm, Rooms: 3, Floor: 4, Insulated: no, Total Price: 16380000, Average sqm per room: 23.33, Room Price: 4200000]
+
+Generated on: Sun Oct 12 20:23:00 CEST 2025
